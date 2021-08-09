@@ -1,0 +1,15 @@
+Q1 (12 pts)
+
+[3] Attempts at analytical soln of periodic structure or to guess the interesting range of wavelengths
+[3] Code correctness and validation
+[1] Documentation within code
+[2] Spectrum for structure 1
+[2] Spectrum for structure 2
+[1] Clarity of writing
+
+Q2 (8pts)
+
+[2] Use of an efficient transformation
+[4] Code correctness and validation
+[1] Documentation within code
+[1] Clarity of writing
