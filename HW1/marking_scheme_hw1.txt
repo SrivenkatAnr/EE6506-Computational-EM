@@ -1,0 +1,23 @@
+Scheme 1: 2pts - 1 for partial working, 2 for full answer
+Scheme 2: 2pts - 1 for code without comments, 2 for with comments
+Scheme 3: 3pts - 1 for partial working, 3 for full answer
+
+1. a) and b) scheme 1
+
+2. scheme 1
+
+3. scheme 1
+
+4. Showing of working (e.g. calc of normal): 1pt. 1pt also given if this is mentioned in the code comments and not explicitly otherwise. 
+plot: scheme 1, 
+code: scheme 2.
+
+5. code: scheme 2
+
+6. scheme 3
+
+7. scheme 1
+
+8. 5 pts subjective showing understanding and attempt.
+
+Total points: 25 
